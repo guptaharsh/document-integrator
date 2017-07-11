@@ -1,0 +1,14 @@
+#nav_main{position:relative;}
+#nav_main li{display:inline-block;margin-right:2px;}
+#nav_main > li > a, #nav_main > li > a:visited, #nav_main > li > a:focus{display:table-cell;height:61px;width:120px;background:url(../img/navigation/main/bg-normal.png) no-repeat;line-height:26px;text-align:center;vertical-align:bottom;}
+#nav_main > li > a img, #nav_main > li > a:visited img, #nav_main > li > a:focus img{display:block;margin:0 auto;opacity:0.58;filter:alpha(opacity=58);}
+#nav_main > li > a:hover{background:url(../img/navigation/main/bg-hover.png) no-repeat;}
+#nav_main > li.current > a{background:url(../img/navigation/main/bg-active.png) no-repeat;}
+#nav_main > li > a:hover img, #nav_main > li.current > a img{opacity:1;}
+#nav_main li ul{width:100%;position:absolute;line-height:38px;left:0;display:none;}
+#nav_main > li.current ul{display:block;}
+.ie7 #nav_main li ul{top:45px;}
+#nav_main li ul li{display:inline-block;padding:0 30px;background:url(../img/navigation/sub/seperator.png) no-repeat right;float:left;}
+.ie7 #nav_main li ul li{zoom:1;display:inline;}
+#nav_main li ul li:first-child{padding-left:5px;}
+#nav_main li ul li:last-child, #nav_main ul li.last-child{background:none;}
