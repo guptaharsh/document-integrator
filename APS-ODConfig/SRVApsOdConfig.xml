@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<web-config>
+    <aps-url>
+        <apswindowdisplay>true</apswindowdisplay>
+        <url>http://10.75.16.70:7013/ICICIWeb/CheckLogin.los</url>
+        <odw>45%</odw>
+        <apsw>54%</apsw>
+        <applettoolbar>Y</applettoolbar>
+    </aps-url>
+    
+    <document>
+        <documentfolder>istreams\\ProcessFolder\\RetailLoans</documentfolder>
+        <!--<adddocumentfolder>E:\\DocumentFolder</adddocumentfolder>-->
+        <adddocumentabspath>/istreams_app</adddocumentabspath>
+        <adddocumentfolder>OD_APS_TEMP_IMG</adddocumentfolder>
+    </document>
+    
+    <docdataclass>
+        <dataclassname>Case_Folder</dataclassname>
+        <noofrecords>10</noofrecords>
+    </docdataclass>
+    
+    <servlets>
+        <servleturl>http://10.129.59.12:9600/idecisions</servleturl>
+        <!--<omniservlet>http://192.168.1.10:8080/omnidocs/servlet</omniservlet>-->
+    </servlets>
+    
+    <appletlibraries>
+        <!--<appletlibrary>http://192.168.1.10:8080/webdesktop/webtop/applet</appletlibrary>-->
+        <odlibrary>http://10.129.59.12:9600/idecisions/lib</odlibrary>
+        <!--<odlibrary>http://10.16.15.78:7777/omnidocs</odlibrary>-->
+
+        <!--<appletlibrary>C:/Oracle/Middleware/user_projects/domains/SRVDomain2/lib</appletlibrary>-->
+        <!--<appletlibrary>http://192.168.1.9:7001/idecisions/lib</appletlibrary>-->
+    </appletlibraries>
+    <cabinet>
+        <cabinetname>LOANDB</cabinetname>
+    </cabinet>
+    
+    <supportedfileformats>xls,odt,doc,bmp,jpg,jpeg,pdf,tif,tiff,ods,msg,eml</supportedfileformats>
+    
+    <stampinipath>http://10.129.59.12:9600/idecisions/lib/doccab/stamps.ini</stampinipath>
+
+    <filesize>4</filesize>	
+	<jtsip>10.16.241.80</jtsip>
+	<jtsport>3355</jtsport>
+
+	 <!--    Integration Parameters  -->
+    
+    <initialcontextfactory>com.pramati.client.naming.PramatiClientContextFactory</initialcontextfactory>
+    
+    <channelcode>BB</channelcode>
+    
+<!--<dmsloginusername>supervisor</dmsloginusername>
+	<dmsloginpassword>supervisor351</dmsloginpassword>-->
+
+<dmsloginusername>idecision</dmsloginusername>
+	<dmsloginpassword>idecision123</dmsloginpassword>
+
+
+
+<webapiurl>http://10.16.241.80:7801/omnidocs/integration/foldView/viewFoldList.jsp?Application=DMSAdapter&amp;amp;S=S&amp;amp;Enable-Property=false&amp;amp;sessionIndexSet=true</webapiurl>
+
+    <apsmanuallogin>Y</apsmanuallogin>
+    
+    <externalcredentialservlet>http://10.129.59.12:9600/istreams</externalcredentialservlet>
+</web-config>
