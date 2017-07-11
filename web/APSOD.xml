@@ -1,0 +1,459 @@
+<!--
+
+
+<NGOGetDocumentListExt_Output>
+    <Option>NGOGetDocumentListExt</Option>
+    <Status>0</Status>
+    <NoOfRecordsFetched>10</NoOfRecordsFetched>
+    <TotalNoOfRecords>11</TotalNoOfRecords>
+    <NoOfReferenceFetched>0</NoOfReferenceFetched>
+    <TotalNoOfReference>0</TotalNoOfReference>
+    <Documents>
+        <Document>
+            <DocumentIndex>3846</DocumentIndex>
+            <DocumentVersionNo>1.0</DocumentVersionNo>
+            <DocumentName>PAS_PA_ADD_Gas Bill(2013_07_16_16_39_38_9460)</DocumentName>
+            <OwnerIndex>1</OwnerIndex>
+            <CreationDateTime>2013-07-16 16:39:38.0</CreationDateTime>
+            <RevisedDateTime>2013-07-16 16:39:38.0</RevisedDateTime>
+            <AccessDateTime>2013-07-16 16:39:38.0</AccessDateTime>
+            <VersionFlag>N</VersionFlag>
+            <DocumentType>N</DocumentType>
+            <CreatedByApp>0</CreatedByApp>
+            <ISIndex>1015#1#</ISIndex>
+            <NoOfPages>1</NoOfPages>
+            <DocumentSize>41754</DocumentSize>
+            <FTSDocumentIndex>0</FTSDocumentIndex>
+            <EnableLog>N</EnableLog>
+            <DocumentLock>N</DocumentLock>
+            <Comment>not defined</Comment>
+            <Author>Supervisor</Author>
+            <FTSFlag>XX</FTSFlag>
+            <DocStatus>A</DocStatus>
+            <ExpiryDateTime>2113-07-16 16:39:38.0</ExpiryDateTime>
+            <CheckoutStatus>N</CheckoutStatus>
+            <Location>not defined</Location>
+            <ParentFolderIndex>6980</ParentFolderIndex>
+            <DocOrderNo>11</DocOrderNo>
+            <FiledDateTime>2013-07-16 16:39:38.0</FiledDateTime>
+            <ReferenceFlag>O</ReferenceFlag>
+            <LoginUserRights>1111111111</LoginUserRights>
+            <Owner>Supervisor</Owner>
+            <FiledByUser>Supervisor</FiledByUser>
+            <CreatedByAppName>html</CreatedByAppName>
+            <DataDefinition>
+                <DataDefIndex>242</DataDefIndex>
+                <DataDefName>APS_OD_DC</DataDefName>
+            </DataDefinition>
+            <PullPrintFlag>N</PullPrintFlag>
+            <AnnotationFlag>N</AnnotationFlag>
+            <LinkDocFlag>N</LinkDocFlag>
+            <OriginalFolderIndex>-2</OriginalFolderIndex>
+            <ThumbNailFlag>N</ThumbNailFlag>
+        </Document>
+        <Document>
+            <DocumentIndex>3847</DocumentIndex>
+            <DocumentVersionNo>1.0</DocumentVersionNo>
+            <DocumentName>PAS_PA_ADD_Gas Bill(2013_07_16_16_39_42_5550)</DocumentName>
+            <OwnerIndex>1</OwnerIndex>
+            <CreationDateTime>2013-07-16 16:39:42.0</CreationDateTime>
+            <RevisedDateTime>2013-07-16 16:39:42.0</RevisedDateTime>
+            <AccessDateTime>2013-07-16 16:39:42.0</AccessDateTime>
+            <VersionFlag>N</VersionFlag>
+            <DocumentType>N</DocumentType>
+            <CreatedByApp>0</CreatedByApp>
+            <ISIndex>1016#1#</ISIndex>
+            <NoOfPages>1</NoOfPages>
+            <DocumentSize>41754</DocumentSize>
+            <FTSDocumentIndex>0</FTSDocumentIndex>
+            <EnableLog>N</EnableLog>
+            <DocumentLock>N</DocumentLock>
+            <Comment>not defined</Comment>
+            <Author>Supervisor</Author>
+            <FTSFlag>XX</FTSFlag>
+            <DocStatus>A</DocStatus>
+            <ExpiryDateTime>2113-07-16 16:39:42.0</ExpiryDateTime>
+            <CheckoutStatus>N</CheckoutStatus>
+            <Location>not defined</Location>
+            <ParentFolderIndex>6980</ParentFolderIndex>
+            <DocOrderNo>12</DocOrderNo>
+            <FiledDateTime>2013-07-16 16:39:42.0</FiledDateTime>
+            <ReferenceFlag>O</ReferenceFlag>
+            <LoginUserRights>1111111111</LoginUserRights>
+            <Owner>Supervisor</Owner>
+            <FiledByUser>Supervisor</FiledByUser>
+            <CreatedByAppName>html</CreatedByAppName>
+            <DataDefinition>
+                <DataDefIndex>242</DataDefIndex>
+                <DataDefName>APS_OD_DC</DataDefName>
+            </DataDefinition>
+            <PullPrintFlag>N</PullPrintFlag>
+            <AnnotationFlag>N</AnnotationFlag>
+            <LinkDocFlag>N</LinkDocFlag>
+            <OriginalFolderIndex>-2</OriginalFolderIndex>
+            <ThumbNailFlag>N</ThumbNailFlag>
+        </Document>
+        <Document>
+            <DocumentIndex>3848</DocumentIndex>
+            <DocumentVersionNo>1.0</DocumentVersionNo>
+            <DocumentName>PAS_PA_ADD_Gas Bill(2013_07_16_16_39_46_7120)</DocumentName>
+            <OwnerIndex>1</OwnerIndex>
+            <CreationDateTime>2013-07-16 16:39:46.0</CreationDateTime>
+            <RevisedDateTime>2013-07-16 16:39:46.0</RevisedDateTime>
+            <AccessDateTime>2013-07-16 20:12:20.0</AccessDateTime>
+            <VersionFlag>N</VersionFlag>
+            <DocumentType>N</DocumentType>
+            <CreatedByApp>0</CreatedByApp>
+            <ISIndex>1017#1#</ISIndex>
+            <NoOfPages>1</NoOfPages>
+            <DocumentSize>41754</DocumentSize>
+            <FTSDocumentIndex>0</FTSDocumentIndex>
+            <EnableLog>N</EnableLog>
+            <DocumentLock>N</DocumentLock>
+            <Comment>not defined</Comment>
+            <Author>Supervisor</Author>
+            <FTSFlag>XX</FTSFlag>
+            <DocStatus>A</DocStatus>
+            <ExpiryDateTime>2113-07-16 16:39:46.0</ExpiryDateTime>
+            <CheckoutStatus>N</CheckoutStatus>
+            <Location>not defined</Location>
+            <ParentFolderIndex>6980</ParentFolderIndex>
+            <DocOrderNo>13</DocOrderNo>
+            <FiledDateTime>2013-07-16 16:39:46.0</FiledDateTime>
+            <ReferenceFlag>O</ReferenceFlag>
+            <LoginUserRights>1111111111</LoginUserRights>
+            <Owner>Supervisor</Owner>
+            <FiledByUser>Supervisor</FiledByUser>
+            <CreatedByAppName>html</CreatedByAppName>
+            <DataDefinition>
+                <DataDefIndex>242</DataDefIndex>
+                <DataDefName>APS_OD_DC</DataDefName>
+            </DataDefinition>
+            <PullPrintFlag>N</PullPrintFlag>
+            <AnnotationFlag>N</AnnotationFlag>
+            <LinkDocFlag>N</LinkDocFlag>
+            <OriginalFolderIndex>-2</OriginalFolderIndex>
+            <ThumbNailFlag>N</ThumbNailFlag>
+        </Document>
+        <Document>
+            <DocumentIndex>3849</DocumentIndex>
+            <DocumentVersionNo>1.0</DocumentVersionNo>
+            <DocumentName>PAS_PA_ADD_Gas Bill(2013_07_16_16_39_50_7270)</DocumentName>
+            <OwnerIndex>1</OwnerIndex>
+            <CreationDateTime>2013-07-16 16:39:50.0</CreationDateTime>
+            <RevisedDateTime>2013-07-16 16:39:50.0</RevisedDateTime>
+            <AccessDateTime>2013-07-16 16:39:50.0</AccessDateTime>
+            <VersionFlag>N</VersionFlag>
+            <DocumentType>N</DocumentType>
+            <CreatedByApp>0</CreatedByApp>
+            <ISIndex>1018#1#</ISIndex>
+            <NoOfPages>1</NoOfPages>
+            <DocumentSize>41754</DocumentSize>
+            <FTSDocumentIndex>0</FTSDocumentIndex>
+            <EnableLog>N</EnableLog>
+            <DocumentLock>N</DocumentLock>
+            <Comment>not defined</Comment>
+            <Author>Supervisor</Author>
+            <FTSFlag>XX</FTSFlag>
+            <DocStatus>A</DocStatus>
+            <ExpiryDateTime>2113-07-16 16:39:50.0</ExpiryDateTime>
+            <CheckoutStatus>N</CheckoutStatus>
+            <Location>not defined</Location>
+            <ParentFolderIndex>6980</ParentFolderIndex>
+            <DocOrderNo>14</DocOrderNo>
+            <FiledDateTime>2013-07-16 16:39:50.0</FiledDateTime>
+            <ReferenceFlag>O</ReferenceFlag>
+            <LoginUserRights>1111111111</LoginUserRights>
+            <Owner>Supervisor</Owner>
+            <FiledByUser>Supervisor</FiledByUser>
+            <CreatedByAppName>html</CreatedByAppName>
+            <DataDefinition>
+                <DataDefIndex>242</DataDefIndex>
+                <DataDefName>APS_OD_DC</DataDefName>
+            </DataDefinition>
+            <PullPrintFlag>N</PullPrintFlag>
+            <AnnotationFlag>N</AnnotationFlag>
+            <LinkDocFlag>N</LinkDocFlag>
+            <OriginalFolderIndex>-2</OriginalFolderIndex>
+            <ThumbNailFlag>N</ThumbNailFlag>
+        </Document>
+        <Document>
+            <DocumentIndex>3850</DocumentIndex>
+            <DocumentVersionNo>1.0</DocumentVersionNo>
+            <DocumentName>PAS_PA_ADD_Gas Bill(2013_07_16_16_39_54_6180)</DocumentName>
+            <OwnerIndex>1</OwnerIndex>
+            <CreationDateTime>2013-07-16 16:39:54.0</CreationDateTime>
+            <RevisedDateTime>2013-07-16 16:39:54.0</RevisedDateTime>
+            <AccessDateTime>2013-07-16 20:11:41.0</AccessDateTime>
+            <VersionFlag>N</VersionFlag>
+            <DocumentType>N</DocumentType>
+            <CreatedByApp>0</CreatedByApp>
+            <ISIndex>1019#1#</ISIndex>
+            <NoOfPages>1</NoOfPages>
+            <DocumentSize>41754</DocumentSize>
+            <FTSDocumentIndex>0</FTSDocumentIndex>
+            <EnableLog>N</EnableLog>
+            <DocumentLock>N</DocumentLock>
+            <Comment>not defined</Comment>
+            <Author>Supervisor</Author>
+            <FTSFlag>XX</FTSFlag>
+            <DocStatus>A</DocStatus>
+            <ExpiryDateTime>2113-07-16 16:39:54.0</ExpiryDateTime>
+            <CheckoutStatus>N</CheckoutStatus>
+            <Location>not defined</Location>
+            <ParentFolderIndex>6980</ParentFolderIndex>
+            <DocOrderNo>15</DocOrderNo>
+            <FiledDateTime>2013-07-16 16:39:54.0</FiledDateTime>
+            <ReferenceFlag>O</ReferenceFlag>
+            <LoginUserRights>1111111111</LoginUserRights>
+            <Owner>Supervisor</Owner>
+            <FiledByUser>Supervisor</FiledByUser>
+            <CreatedByAppName>html</CreatedByAppName>
+            <DataDefinition>
+                <DataDefIndex>242</DataDefIndex>
+                <DataDefName>APS_OD_DC</DataDefName>
+            </DataDefinition>
+            <PullPrintFlag>N</PullPrintFlag>
+            <AnnotationFlag>N</AnnotationFlag>
+            <LinkDocFlag>N</LinkDocFlag>
+            <OriginalFolderIndex>-2</OriginalFolderIndex>
+            <ThumbNailFlag>N</ThumbNailFlag>
+        </Document>
+        <Document>
+            <DocumentIndex>3851</DocumentIndex>
+            <DocumentVersionNo>1.0</DocumentVersionNo>
+            <DocumentName>PAS_PA_ADD_Electricity Bill</DocumentName>
+            <OwnerIndex>1</OwnerIndex>
+            <CreationDateTime>2013-07-16 19:42:06.0</CreationDateTime>
+            <RevisedDateTime>2013-07-16 19:42:06.0</RevisedDateTime>
+            <AccessDateTime>2013-07-16 19:42:06.0</AccessDateTime>
+            <VersionFlag>N</VersionFlag>
+            <DocumentType>N</DocumentType>
+            <CreatedByApp>0</CreatedByApp>
+            <ISIndex>1020#1#</ISIndex>
+            <NoOfPages>1</NoOfPages>
+            <DocumentSize>43840</DocumentSize>
+            <FTSDocumentIndex>0</FTSDocumentIndex>
+            <EnableLog>N</EnableLog>
+            <DocumentLock>N</DocumentLock>
+            <Comment>not defined</Comment>
+            <Author>Supervisor</Author>
+            <FTSFlag>XX</FTSFlag>
+            <DocStatus>A</DocStatus>
+            <ExpiryDateTime>2113-07-16 19:42:06.0</ExpiryDateTime>
+            <CheckoutStatus>N</CheckoutStatus>
+            <Location>not defined</Location>
+            <ParentFolderIndex>6980</ParentFolderIndex>
+            <DocOrderNo>16</DocOrderNo>
+            <FiledDateTime>2013-07-16 19:42:06.0</FiledDateTime>
+            <ReferenceFlag>O</ReferenceFlag>
+            <LoginUserRights>1111111111</LoginUserRights>
+            <Owner>Supervisor</Owner>
+            <FiledByUser>Supervisor</FiledByUser>
+            <CreatedByAppName>html</CreatedByAppName>
+            <DataDefinition>
+                <DataDefIndex>242</DataDefIndex>
+                <DataDefName>APS_OD_DC</DataDefName>
+            </DataDefinition>
+            <PullPrintFlag>N</PullPrintFlag>
+            <AnnotationFlag>N</AnnotationFlag>
+            <LinkDocFlag>N</LinkDocFlag>
+            <OriginalFolderIndex>-2</OriginalFolderIndex>
+            <ThumbNailFlag>N</ThumbNailFlag>
+        </Document>
+        <Document>
+            <DocumentIndex>3852</DocumentIndex>
+            <DocumentVersionNo>1.0</DocumentVersionNo>
+            <DocumentName>PAS_PA_ADD_Electricity Bill(2013_07_16_19_42_17_4770)</DocumentName>
+            <OwnerIndex>1</OwnerIndex>
+            <CreationDateTime>2013-07-16 19:42:17.0</CreationDateTime>
+            <RevisedDateTime>2013-07-16 19:42:17.0</RevisedDateTime>
+            <AccessDateTime>2013-07-16 19:42:17.0</AccessDateTime>
+            <VersionFlag>N</VersionFlag>
+            <DocumentType>N</DocumentType>
+            <CreatedByApp>0</CreatedByApp>
+            <ISIndex>1021#1#</ISIndex>
+            <NoOfPages>1</NoOfPages>
+            <DocumentSize>43840</DocumentSize>
+            <FTSDocumentIndex>0</FTSDocumentIndex>
+            <EnableLog>N</EnableLog>
+            <DocumentLock>N</DocumentLock>
+            <Comment>not defined</Comment>
+            <Author>Supervisor</Author>
+            <FTSFlag>XX</FTSFlag>
+            <DocStatus>A</DocStatus>
+            <ExpiryDateTime>2113-07-16 19:42:17.0</ExpiryDateTime>
+            <CheckoutStatus>N</CheckoutStatus>
+            <Location>not defined</Location>
+            <ParentFolderIndex>6980</ParentFolderIndex>
+            <DocOrderNo>17</DocOrderNo>
+            <FiledDateTime>2013-07-16 19:42:17.0</FiledDateTime>
+            <ReferenceFlag>O</ReferenceFlag>
+            <LoginUserRights>1111111111</LoginUserRights>
+            <Owner>Supervisor</Owner>
+            <FiledByUser>Supervisor</FiledByUser>
+            <CreatedByAppName>html</CreatedByAppName>
+            <DataDefinition>
+                <DataDefIndex>242</DataDefIndex>
+                <DataDefName>APS_OD_DC</DataDefName>
+            </DataDefinition>
+            <PullPrintFlag>N</PullPrintFlag>
+            <AnnotationFlag>N</AnnotationFlag>
+            <LinkDocFlag>N</LinkDocFlag>
+            <OriginalFolderIndex>-2</OriginalFolderIndex>
+            <ThumbNailFlag>N</ThumbNailFlag>
+        </Document>
+        <Document>
+            <DocumentIndex>3853</DocumentIndex>
+            <DocumentVersionNo>1.0</DocumentVersionNo>
+            <DocumentName>PAS_PA_ADD_Electricity Bill(2013_07_16_19_42_21_7120)</DocumentName>
+            <OwnerIndex>1</OwnerIndex>
+            <CreationDateTime>2013-07-16 19:42:21.0</CreationDateTime>
+            <RevisedDateTime>2013-07-16 19:42:21.0</RevisedDateTime>
+            <AccessDateTime>2013-07-17 14:37:04.0</AccessDateTime>
+            <VersionFlag>N</VersionFlag>
+            <DocumentType>N</DocumentType>
+            <CreatedByApp>0</CreatedByApp>
+            <ISIndex>1022#1#</ISIndex>
+            <NoOfPages>1</NoOfPages>
+            <DocumentSize>43840</DocumentSize>
+            <FTSDocumentIndex>0</FTSDocumentIndex>
+            <EnableLog>N</EnableLog>
+            <DocumentLock>N</DocumentLock>
+            <Comment>not defined</Comment>
+            <Author>Supervisor</Author>
+            <FTSFlag>XX</FTSFlag>
+            <DocStatus>A</DocStatus>
+            <ExpiryDateTime>2113-07-16 19:42:21.0</ExpiryDateTime>
+            <CheckoutStatus>N</CheckoutStatus>
+            <Location>not defined</Location>
+            <ParentFolderIndex>6980</ParentFolderIndex>
+            <DocOrderNo>18</DocOrderNo>
+            <FiledDateTime>2013-07-16 19:42:21.0</FiledDateTime>
+            <ReferenceFlag>O</ReferenceFlag>
+            <LoginUserRights>1111111111</LoginUserRights>
+            <Owner>Supervisor</Owner>
+            <FiledByUser>Supervisor</FiledByUser>
+            <CreatedByAppName>html</CreatedByAppName>
+            <DataDefinition>
+                <DataDefIndex>242</DataDefIndex>
+                <DataDefName>APS_OD_DC</DataDefName>
+            </DataDefinition>
+            <PullPrintFlag>N</PullPrintFlag>
+            <AnnotationFlag>N</AnnotationFlag>
+            <LinkDocFlag>N</LinkDocFlag>
+            <OriginalFolderIndex>-2</OriginalFolderIndex>
+            <ThumbNailFlag>N</ThumbNailFlag>
+        </Document>
+        <Document>
+            <DocumentIndex>3854</DocumentIndex>
+            <DocumentVersionNo>1.0</DocumentVersionNo>
+            <DocumentName>PAS_PA_ADD_Electricity Bill(2013_07_16_19_42_25_4770)</DocumentName>
+            <OwnerIndex>1</OwnerIndex>
+            <CreationDateTime>2013-07-16 19:42:25.0</CreationDateTime>
+            <RevisedDateTime>2013-07-16 19:42:25.0</RevisedDateTime>
+            <AccessDateTime>2013-07-19 12:26:23.0</AccessDateTime>
+            <VersionFlag>N</VersionFlag>
+            <DocumentType>N</DocumentType>
+            <CreatedByApp>0</CreatedByApp>
+            <ISIndex>1023#1#</ISIndex>
+            <NoOfPages>1</NoOfPages>
+            <DocumentSize>43840</DocumentSize>
+            <FTSDocumentIndex>0</FTSDocumentIndex>
+            <EnableLog>N</EnableLog>
+            <DocumentLock>N</DocumentLock>
+            <Comment>not defined</Comment>
+            <Author>Supervisor</Author>
+            <FTSFlag>XX</FTSFlag>
+            <DocStatus>A</DocStatus>
+            <ExpiryDateTime>2113-07-16 19:42:25.0</ExpiryDateTime>
+            <CheckoutStatus>N</CheckoutStatus>
+            <Location>not defined</Location>
+            <ParentFolderIndex>6980</ParentFolderIndex>
+            <DocOrderNo>19</DocOrderNo>
+            <FiledDateTime>2013-07-16 19:42:25.0</FiledDateTime>
+            <ReferenceFlag>O</ReferenceFlag>
+            <LoginUserRights>1111111111</LoginUserRights>
+            <Owner>Supervisor</Owner>
+            <FiledByUser>Supervisor</FiledByUser>
+            <CreatedByAppName>html</CreatedByAppName>
+            <DataDefinition>
+                <DataDefIndex>242</DataDefIndex>
+                <DataDefName>APS_OD_DC</DataDefName>
+            </DataDefinition>
+            <PullPrintFlag>N</PullPrintFlag>
+            <AnnotationFlag>N</AnnotationFlag>
+            <LinkDocFlag>N</LinkDocFlag>
+            <OriginalFolderIndex>-2</OriginalFolderIndex>
+            <ThumbNailFlag>N</ThumbNailFlag>
+        </Document>
+        <Document>
+            <DocumentIndex>3855</DocumentIndex>
+            <DocumentVersionNo>1.0</DocumentVersionNo>
+            <DocumentName>PAS_PA_ADD_Electricity Bill(2013_07_16_19_42_29_4770)</DocumentName>
+            <OwnerIndex>1</OwnerIndex>
+            <CreationDateTime>2013-07-16 19:42:29.0</CreationDateTime>
+            <RevisedDateTime>2013-07-16 19:42:29.0</RevisedDateTime>
+            <AccessDateTime>2013-07-17 14:32:28.0</AccessDateTime>
+            <VersionFlag>N</VersionFlag>
+            <DocumentType>N</DocumentType>
+            <CreatedByApp>0</CreatedByApp>
+            <ISIndex>1024#1#</ISIndex>
+            <NoOfPages>1</NoOfPages>
+            <DocumentSize>43840</DocumentSize>
+            <FTSDocumentIndex>0</FTSDocumentIndex>
+            <EnableLog>N</EnableLog>
+            <DocumentLock>N</DocumentLock>
+            <Comment>not defined</Comment>
+            <Author>Supervisor</Author>
+            <FTSFlag>XX</FTSFlag>
+            <DocStatus>A</DocStatus>
+            <ExpiryDateTime>2113-07-16 19:42:29.0</ExpiryDateTime>
+            <CheckoutStatus>N</CheckoutStatus>
+            <Location>not defined</Location>
+            <ParentFolderIndex>6980</ParentFolderIndex>
+            <DocOrderNo>20</DocOrderNo>
+            <FiledDateTime>2013-07-16 19:42:29.0</FiledDateTime>
+            <ReferenceFlag>O</ReferenceFlag>
+            <LoginUserRights>1111111111</LoginUserRights>
+            <Owner>Supervisor</Owner>
+            <FiledByUser>Supervisor</FiledByUser>
+            <CreatedByAppName>html</CreatedByAppName>
+            <DataDefinition>
+                <DataDefIndex>242</DataDefIndex>
+                <DataDefName>APS_OD_DC</DataDefName>
+            </DataDefinition>
+            <PullPrintFlag>N</PullPrintFlag>
+            <AnnotationFlag>N</AnnotationFlag>
+            <LinkDocFlag>N</LinkDocFlag>
+            <OriginalFolderIndex>-2</OriginalFolderIndex>
+            <ThumbNailFlag>N</ThumbNailFlag>
+        </Document>
+    </Documents>
+</NGOGetDocumentListExt_Output>-->
+
+<NGOGetDocumentListExt_Input>
+    <Option>NGOGetDocumentListExt</Option>
+    <CabinetName>istreams</CabinetName>
+    <UserDBId>-2142303650</UserDBId>
+    <CurrentDateTime></CurrentDateTime>
+    <FolderIndex>6980</FolderIndex>
+    <DocumentIndex></DocumentIndex>
+    <PreviousIndex>3981</PreviousIndex>
+    <LastSortField></LastSortField>
+    <StartPos>0</StartPos>
+    <NoOfRecordsToFetch>5</NoOfRecordsToFetch>
+    <OrderBy>5</OrderBy>
+    <SortOrder>A</SortOrder>
+    <DataAlsoFlag>N</DataAlsoFlag>
+    <AnnotationFlag>Y</AnnotationFlag>
+    <LinkDocFlag>Y</LinkDocFlag>
+    <PreviousRefIndex>0</PreviousRefIndex>
+    <LastRefField></LastRefField>
+    <RefOrderBy>2</RefOrderBy>
+    <RefSortOrder>A</RefSortOrder>
+    <NoOfReferenceToFetch>5</NoOfReferenceToFetch>
+    <DocumentType>B</DocumentType>
+    <RecursiveFlag>N</RecursiveFlag>
+    <ThumbnailAlsoFlag>N</ThumbnailAlsoFlag>
+</NGOGetDocumentListExt_Input>

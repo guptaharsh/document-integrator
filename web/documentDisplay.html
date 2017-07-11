@@ -1,0 +1,76 @@
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <script>
+            $(document).ready(function(){
+        var appletString = //'<form name="textForm">'
+
+                    //+'<applet mayscript="" code="com.newgen.applet.AnnotationBase.EditableAnnotationApplet.class" archive="$//{initParam["APPLETLIBRARY"]}/editableannotationapplet.jar" name="IVApplet" width="100%" height="670px" codebase="$//{initParam["APPLETLIBRARY"]}/" cabbase="$//{initParam["APPLETLIBRARY"]}/editableannotationapplet.cab">'
+                    '<applet mayscript="" code="com.newgen.applet.AnnotationBase.EditableAnnotationApplet.class" archive="${initParam["ODLIBRARY"]}/doccab/editableannotationapplet.jar" name="IVApplet" width="100%" height="670px" codebase="${initParam["ODLIBRARY"]}/doccab/" cabbase="${initParam["ODLIBRARY"]}/doccab/editableannotationapplet.cab">'
+                    //+'<applet mayscript="" code="com.newgen.applet.AnnotationBase.EditableAnnotationApplet.class" archive="IVApplet.jar" name="IVApplet" width="100%" height="670px">'
+                    +'<param name="cache_archive" value="editableannotationapplet.jar">'
+                //+'<param name="URL_Image" value="'+url+'">'
+                    +'<param name="URL_Image" value="'+url+'">'
+                    +'<param name="URL_Annotation" value="'+annotUrl+'">'
+                    //+'<param name="URL_AnnotCGI" value="http://192.168.1.10:8080/webdesktop/servlet/viewimageannotation?DocId=3602&PageNo=1&WD_UID=9070842216447148337">'
+                    +'<param name="URL_AnnotCGI" value="'+imageAnnotURL+'">'
+                    +'<param name="flag_Multipage" value="true">'
+                    +'<param name="NumberOfPages" value="'+noOfPages+'">'
+                    +'<param name="num_VisiblePage" value="1">'
+                    +'<param name="ResizePercentage" value="256">'
+                    +'<param name="ToolBarFlag" value="true">'
+                    +'<param name="AnnotationDisplay" value="true">'
+
+                    +'<param name="MenuBar" value="false">'
+                    +'<param name="codebase_lookup" value="false">'
+                    +'<param name="UTF8Encoding" value="true">'
+                    +'<param name="DynamicHideNShowToolBar" value="2">'
+                    +'<param name="InitialZoomLensStatus" value="false">'
+                    +'<param name="PrintOption" value="true">'
+                    +'<param name="PrintParameter" value="1">'
+                    //+'<param name="URL_StampINIPath" value="$//{initParam["ODLIBRARY"]}/admin/stamps/conf/stamps7905227433966239866.ini">'
+                    +'<param name="URL_StampINIPath" value="${initParam["STAMPINIPATH"]}">'
+                    //+'<param name="URL_ImageStampFile" value="http://192.168.1.10:8080/omnidocs/servlet/viewimagestamp?DocId=3464&Version=0&PageNo=1&UserDbId=750709221&CabinetName=icici&JtsIp=127.0.0.1&JtsPort=1099">'
+                    +'<param name="URL_ImageStampFile" value="'+viewImageStampURL+'">'
+                    //+'<param name="URL_toolbarPropertiesFile" value="">'
+                    +'<param name="URL_toolbarPropertiesFile" value="${initParam["ODLIBRARY"]}/ToolBarBean.properties">'
+                    +'<param name="URL_annotToolbarPropertiesFile" value="${initParam["ODLIBRARY"]}/AnnotationToolbar.properties">'
+                    +'<param name="CurrentUserName" value="'+$("#user_OD").val()+'">'
+                    +'<param name="BrightnessOption" value="true">'
+                    //+'<param name="DynamicText" value="servosys">'
+                    +'<param name="DynamicText" value="">'  //  blank
+                    +'<param name="TransformOption" value="true">'  
+                    +'<param name="ServerSupportMultiPage" value="true">'
+                    +'<param name="annotToolbar_Alignment" value="west">'
+                    +'<param name="EditAnnotationOption" value="true">'
+
+                    +'<param name="CroppedImageSize" value="32">'
+                    +'<param name="PenThickness" value="3">'
+                    +'</applet>'
+                    //+'</form>';
+
+                    document.getElementById("wdesk:ivapp").innerHTML = appletString;
+
+
+                    ///document.IVApplet.openNewImage(url, annotUrl, noOfPages,1,true);
+
+                    //  Load applet toolbars (configurable)
+                    if("${initParam['APPLET_TOOLBAR']}" == "Y")
+                    {
+                        //document.IVApplet.showNHideToolBars(true,true);
+                        //document.IVApplet.showNHideToolBars(true,false);
+                    } 
+            });
+</script>
+        
+    </head>
+    <body>
+        <div>TODO write content</div>
+    </body>
+</html>

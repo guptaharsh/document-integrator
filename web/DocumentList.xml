@@ -1,0 +1,213 @@
+
+<NGOGetDocumentListExt_Output>
+    <Option>NGOGetDocumentListExt</Option>
+    <Status>0</Status>
+    <NoOfRecordsFetched>5</NoOfRecordsFetched>
+    <TotalNoOfRecords>6</TotalNoOfRecords>
+    <NoOfReferenceFetched>0</NoOfReferenceFetched>
+    <TotalNoOfReference>0</TotalNoOfReference>
+    <Documents>
+        <Document>
+            <DocumentIndex>4041</DocumentIndex>
+            <DocumentVersionNo>1.0</DocumentVersionNo>
+            <DocumentName>PA_APDC_Approval Mails</DocumentName>
+            <OwnerIndex>1</OwnerIndex>
+            <CreationDateTime>2013-07-31 13:17:55.0</CreationDateTime>
+            <RevisedDateTime>2013-07-31 13:17:55.0</RevisedDateTime>
+            <AccessDateTime>2013-07-31 13:23:23.0</AccessDateTime>
+            <VersionFlag>N</VersionFlag>
+            <DocumentType>I</DocumentType>
+            <CreatedByApp>0</CreatedByApp>
+            <ISIndex>1047#1#</ISIndex>
+            <NoOfPages>3</NoOfPages>
+            <DocumentSize>86552</DocumentSize>
+            <FTSDocumentIndex>0</FTSDocumentIndex>
+            <EnableLog>N</EnableLog>
+            <DocumentLock>N</DocumentLock>
+            <Comment>not defined</Comment>
+            <Author>Supervisor</Author>
+            <FTSFlag>XX</FTSFlag>
+            <DocStatus>A</DocStatus>
+            <ExpiryDateTime>2113-07-31 13:17:55.0</ExpiryDateTime>
+            <CheckoutStatus>N</CheckoutStatus>
+            <Location>not defined</Location>
+            <ParentFolderIndex>6980</ParentFolderIndex>
+            <DocOrderNo>43</DocOrderNo>
+            <FiledDateTime>2013-07-31 13:17:55.0</FiledDateTime>
+            <ReferenceFlag>O</ReferenceFlag>
+            <LoginUserRights>1111111111</LoginUserRights>
+            <Owner>Supervisor</Owner>
+            <FiledByUser>Supervisor</FiledByUser>
+            <CreatedByAppName>tif</CreatedByAppName>
+            <DataDefinition>
+                <DataDefIndex>262</DataDefIndex>
+                <DataDefName>APSOD_Approvaldoc</DataDefName>
+            </DataDefinition>
+            <PullPrintFlag>N</PullPrintFlag>
+            <OriginalFolderIndex>-2</OriginalFolderIndex>
+            <ThumbNailFlag>N</ThumbNailFlag>
+        </Document>
+        <Document>
+            <DocumentIndex>4021</DocumentIndex>
+            <DocumentVersionNo>1.0</DocumentVersionNo>
+            <DocumentName>PAS_PA_ADD_Gas Bill</DocumentName>
+            <OwnerIndex>1</OwnerIndex>
+            <CreationDateTime>2013-07-30 15:53:10.0</CreationDateTime>
+            <RevisedDateTime>2013-07-30 15:53:10.0</RevisedDateTime>
+            <AccessDateTime>2013-07-30 15:53:10.0</AccessDateTime>
+            <VersionFlag>N</VersionFlag>
+            <DocumentType>I</DocumentType>
+            <CreatedByApp>0</CreatedByApp>
+            <ISIndex>1046#1#</ISIndex>
+            <NoOfPages>1</NoOfPages>
+            <DocumentSize>100830</DocumentSize>
+            <FTSDocumentIndex>0</FTSDocumentIndex>
+            <EnableLog>N</EnableLog>
+            <DocumentLock>N</DocumentLock>
+            <Comment>not defined</Comment>
+            <Author>Supervisor</Author>
+            <FTSFlag>XX</FTSFlag>
+            <DocStatus>A</DocStatus>
+            <ExpiryDateTime>2113-07-30 15:53:10.0</ExpiryDateTime>
+            <CheckoutStatus>N</CheckoutStatus>
+            <Location>not defined</Location>
+            <ParentFolderIndex>6980</ParentFolderIndex>
+            <DocOrderNo>42</DocOrderNo>
+            <FiledDateTime>2013-07-30 15:53:10.0</FiledDateTime>
+            <ReferenceFlag>O</ReferenceFlag>
+            <LoginUserRights>1111111111</LoginUserRights>
+            <Owner>Supervisor</Owner>
+            <FiledByUser>Supervisor</FiledByUser>
+            <CreatedByAppName>jpg</CreatedByAppName>
+            <DataDefinition>
+                <DataDefIndex>242</DataDefIndex>
+                <DataDefName>APS_OD_DC</DataDefName>
+            </DataDefinition>
+            <PullPrintFlag>N</PullPrintFlag>
+            <OriginalFolderIndex>-2</OriginalFolderIndex>
+            <ThumbNailFlag>N</ThumbNailFlag>
+        </Document>
+        <Document>
+            <DocumentIndex>4001</DocumentIndex>
+            <DocumentVersionNo>1.0</DocumentVersionNo>
+            <DocumentName>PAS_PA_ADD_Gas Bill(2013_07_30_13_09_16_0660)</DocumentName>
+            <OwnerIndex>1</OwnerIndex>
+            <CreationDateTime>2013-07-30 13:09:16.0</CreationDateTime>
+            <RevisedDateTime>2013-07-30 13:09:16.0</RevisedDateTime>
+            <AccessDateTime>2013-07-30 13:09:16.0</AccessDateTime>
+            <VersionFlag>N</VersionFlag>
+            <DocumentType>I</DocumentType>
+            <CreatedByApp>0</CreatedByApp>
+            <ISIndex>1045#1#</ISIndex>
+            <NoOfPages>3</NoOfPages>
+            <DocumentSize>86552</DocumentSize>
+            <FTSDocumentIndex>0</FTSDocumentIndex>
+            <EnableLog>N</EnableLog>
+            <DocumentLock>N</DocumentLock>
+            <Comment>not defined</Comment>
+            <Author>Supervisor</Author>
+            <FTSFlag>XX</FTSFlag>
+            <DocStatus>A</DocStatus>
+            <ExpiryDateTime>2113-07-30 13:09:16.0</ExpiryDateTime>
+            <CheckoutStatus>N</CheckoutStatus>
+            <Location>not defined</Location>
+            <ParentFolderIndex>6980</ParentFolderIndex>
+            <DocOrderNo>41</DocOrderNo>
+            <FiledDateTime>2013-07-30 13:09:16.0</FiledDateTime>
+            <ReferenceFlag>O</ReferenceFlag>
+            <LoginUserRights>1111111111</LoginUserRights>
+            <Owner>Supervisor</Owner>
+            <FiledByUser>Supervisor</FiledByUser>
+            <CreatedByAppName>tif</CreatedByAppName>
+            <DataDefinition>
+                <DataDefIndex>242</DataDefIndex>
+                <DataDefName>APS_OD_DC</DataDefName>
+            </DataDefinition>
+            <PullPrintFlag>N</PullPrintFlag>
+            <OriginalFolderIndex>-2</OriginalFolderIndex>
+            <ThumbNailFlag>N</ThumbNailFlag>
+        </Document>
+        <Document>
+            <DocumentIndex>3981</DocumentIndex>
+            <DocumentVersionNo>1.0</DocumentVersionNo>
+            <DocumentName>PA_PDOC_Addendum Accepted Sanction Letter</DocumentName>
+            <OwnerIndex>23</OwnerIndex>
+            <CreationDateTime>2013-07-30 12:51:49.0</CreationDateTime>
+            <RevisedDateTime>2013-07-30 12:51:49.0</RevisedDateTime>
+            <AccessDateTime>2013-07-30 13:11:41.0</AccessDateTime>
+            <VersionFlag>N</VersionFlag>
+            <DocumentType>I</DocumentType>
+            <CreatedByApp>0</CreatedByApp>
+            <ISIndex>1044#1#</ISIndex>
+            <NoOfPages>1</NoOfPages>
+            <DocumentSize>78526</DocumentSize>
+            <FTSDocumentIndex>0</FTSDocumentIndex>
+            <EnableLog>N</EnableLog>
+            <DocumentLock>N</DocumentLock>
+            <Comment>not defined</Comment>
+            <Author>arshad</Author>
+            <FTSFlag>XX</FTSFlag>
+            <DocStatus>A</DocStatus>
+            <ExpiryDateTime>2113-07-30 12:51:49.0</ExpiryDateTime>
+            <CheckoutStatus>N</CheckoutStatus>
+            <Location>not defined</Location>
+            <ParentFolderIndex>6980</ParentFolderIndex>
+            <DocOrderNo>40</DocOrderNo>
+            <FiledDateTime>2013-07-30 12:51:49.0</FiledDateTime>
+            <ReferenceFlag>O</ReferenceFlag>
+            <LoginUserRights>1111111111</LoginUserRights>
+            <Owner>arshad</Owner>
+            <FiledByUser>arshad</FiledByUser>
+            <CreatedByAppName>TIF</CreatedByAppName>
+            <DataDefinition>
+                <DataDefIndex>242</DataDefIndex>
+                <DataDefName>APS_OD_DC</DataDefName>
+            </DataDefinition>
+            <PullPrintFlag>N</PullPrintFlag>
+            <OriginalFolderIndex>-2</OriginalFolderIndex>
+            <ThumbNailFlag>N</ThumbNailFlag>
+        </Document>
+        <Document>
+            <DocumentIndex>3961</DocumentIndex>
+            <DocumentVersionNo>1.0</DocumentVersionNo>
+            <DocumentName>CA2_CAM_CAM</DocumentName>
+            <OwnerIndex>1</OwnerIndex>
+            <CreationDateTime>2013-07-29 13:05:35.0</CreationDateTime>
+            <RevisedDateTime>2013-07-29 13:05:35.0</RevisedDateTime>
+            <AccessDateTime>2013-07-29 13:05:35.0</AccessDateTime>
+            <VersionFlag>N</VersionFlag>
+            <DocumentType>N</DocumentType>
+            <CreatedByApp>0</CreatedByApp>
+            <ISIndex>1043#1#</ISIndex>
+            <NoOfPages>1</NoOfPages>
+            <DocumentSize>1568</DocumentSize>
+            <FTSDocumentIndex>0</FTSDocumentIndex>
+            <EnableLog>N</EnableLog>
+            <DocumentLock>N</DocumentLock>
+            <Comment>not defined</Comment>
+            <Author>Supervisor</Author>
+            <FTSFlag>XX</FTSFlag>
+            <DocStatus>A</DocStatus>
+            <ExpiryDateTime>2113-07-29 13:05:35.0</ExpiryDateTime>
+            <CheckoutStatus>N</CheckoutStatus>
+            <Location>not defined</Location>
+            <ParentFolderIndex>6980</ParentFolderIndex>
+            <DocOrderNo>39</DocOrderNo>
+            <FiledDateTime>2013-07-29 13:05:35.0</FiledDateTime>
+            <ReferenceFlag>O</ReferenceFlag>
+            <LoginUserRights>1111111111</LoginUserRights>
+            <Owner>Supervisor</Owner>
+            <FiledByUser>Supervisor</FiledByUser>
+            <CreatedByAppName>pdf</CreatedByAppName>
+            <DataDefinition>
+                <DataDefIndex>242</DataDefIndex>
+                <DataDefName>APS_OD_DC</DataDefName>
+            </DataDefinition>
+            <PullPrintFlag>N</PullPrintFlag>
+            <OriginalFolderIndex>-2</OriginalFolderIndex>
+            <ThumbNailFlag>N</ThumbNailFlag>
+        </Document>
+    </Documents>
+    <FolderReferences>
+    </FolderReferences>
+</NGOGetDocumentListExt_Output>
